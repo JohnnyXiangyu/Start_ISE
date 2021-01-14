@@ -1,0 +1,3 @@
+sudo -s
+source /mnt/C/PRO/ISE/14.7/ISE_DS/settings64.sh
+ise 
