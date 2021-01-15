@@ -1,3 +1,2 @@
-sudo -s
-source ISE_INSTALL_PATH/14.7/ISE_DS/settings64.sh
-ise 
+printf 'source /PATH_TO_ISE/14.7/ISE_DS/settings64.sh\nise\nexit' | sudo bash
+echo ''
